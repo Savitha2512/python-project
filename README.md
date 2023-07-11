@@ -63,3 +63,12 @@ This graph shows the correlation between wicket and runs per wicket
  ![image](https://github.com/Savitha2512/python-project/assets/137802187/9d6c9855-5ef5-483c-9f0e-9631d8ef0f95)
 
 The Scatter Plot depicts there are many existing outliers. Players having very low ball counts have shown very high values of economy rate, as well as extremely low values- The counts of which are low, but there are examples in the dataset. These are the potential outliers, which we need to ignore in our analysis. Hence we have chosen the bowlers who have bowled a particular number of balls,and thus we are able to identify the best choice among the entire list.
+
+CONCLUSION
+
+We have now come to the point where we summarize out findings. We shall be providing them in the below points:
+The Tournament has shown a slight favourism towards the winning Teams. What I mean to say is Stadiums like Chinnaswamy, Eden Gardens, Wankhede etc have hosted huge number of games. Now obviously this factor adds an edge to the home teams for these stadiums- and indeed they have been the most successful teams in the history of the Tournament- Chennai Super Kings, Kolkata Knight Riders, Mumbai Indians etc. Although this is not the prime factor, yet has a weightage.
+Multiple players who could have been a good potential to the world of Cricket- have got very less appearance opportunities, or have been dropped due to a few inconsistent performances. We often come across news of players in the Indian Premier League, who have left the game of cricket and resorted to means to support their families.
+Since Each Team gets an opportunity to Play at least 7 matches in their Home Ground, most teams have also won the highest number of their wins in their Home Grounds. But Teams like Mumbai Indians and Chennai Super Kings have performed really well at away grounds too. This constitutes one of the major reasons, as to why these teams have been the most successful in the IPL History.
+The Batting and Bowling Averages of most of teams are better in the First innings-as compared to the second innings
+
